@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto GameCalendar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+273da3d2eeea261fa5a5b0d2182e6f2c8b7b22ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2332abe7d618d11a603055de76d37ddc6e6d184a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto GameCalendar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto GameCalendar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
